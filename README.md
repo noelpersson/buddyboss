@@ -1,2 +1,2 @@
 # buddyboss
-Här publicerar jag textfiler till Buddyboss tema och pluginer 
+Här publicerar jag Svenska översättningsfiler Buddyboss tema och pluginer 
